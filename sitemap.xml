@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/classes/</loc>
+    <loc>https://seanybaggins.github.io/physics/classes/</loc>
     <lastmod>2021-05-24T10:50:39-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://seanybaggins.github.io/physics/</loc>
     <lastmod>2021-05-24T10:50:39-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/classes/physics/</loc>
+    <loc>https://seanybaggins.github.io/physics/classes/physics/</loc>
     <lastmod>2021-05-24T10:50:39-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://seanybaggins.github.io/physics/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://seanybaggins.github.io/physics/tags/</loc>
   </url>
 </urlset>
